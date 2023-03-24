@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\DataSense Project\DataSense\DataSense\bin\Debug\DataSense.exe.config
+C:\Users\Asus\Desktop\DataSense Project\DataSense\DataSense\bin\Debug\DataSense.exe
+C:\Users\Asus\Desktop\DataSense Project\DataSense\DataSense\bin\Debug\DataSense.pdb
+C:\Users\Asus\Desktop\DataSense Project\DataSense\DataSense\bin\Debug\Dapper.dll
+C:\Users\Asus\Desktop\DataSense Project\DataSense\DataSense\bin\Debug\System.Data.SQLite.dll
+C:\Users\Asus\Desktop\DataSense Project\DataSense\DataSense\bin\Debug\Dapper.xml
+C:\Users\Asus\Desktop\DataSense Project\DataSense\DataSense\bin\Debug\System.Data.SQLite.xml
+C:\Users\Asus\Desktop\DataSense Project\DataSense\DataSense\obj\Debug\DataSense.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\DataSense Project\DataSense\DataSense\obj\Debug\DataSense.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\DataSense Project\DataSense\DataSense\obj\Debug\DataSense.Properties.Resources.resources
+C:\Users\Asus\Desktop\DataSense Project\DataSense\DataSense\obj\Debug\DataSense.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\DataSense Project\DataSense\DataSense\obj\Debug\DataSense.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\DataSense Project\DataSense\DataSense\obj\Debug\DataSense.csproj.CopyComplete
+C:\Users\Asus\Desktop\DataSense Project\DataSense\DataSense\obj\Debug\DataSense.exe
+C:\Users\Asus\Desktop\DataSense Project\DataSense\DataSense\obj\Debug\DataSense.pdb
+C:\Users\Asus\Desktop\DataSense Project\DataSense\DataSense\obj\Debug\DataSense.MainForm.resources
